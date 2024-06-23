@@ -1,0 +1,1 @@
+npx sequelize-cli db:migrate --migrations-path src\migrations 
